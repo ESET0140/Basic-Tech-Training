@@ -1,0 +1,1 @@
+In day 1 i get to know basic syntax of python and tried to write a code to find area of rectangle

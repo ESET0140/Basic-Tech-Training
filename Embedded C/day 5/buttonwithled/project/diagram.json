@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "author": "ESET0140",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0.6, "left": -0.6, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -80.4,
+      "left": 138.2,
+      "attrs": { "color": "red" }
+    }
+  ],
+  "connections": [],
+  "dependencies": {}
+}

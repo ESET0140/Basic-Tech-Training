@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.AssemblyInfo.cs
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.sourcelink.json
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\bin\Debug\net8.0\DLMS.exe
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\bin\Debug\net8.0\DLMS.deps.json
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\bin\Debug\net8.0\DLMS.runtimeconfig.json
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\bin\Debug\net8.0\DLMS.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\bin\Debug\net8.0\DLMS.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\refint\DLMS.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\DLMS.genruntimeconfig.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DLMS\obj\Debug\net8.0\ref\DLMS.dll

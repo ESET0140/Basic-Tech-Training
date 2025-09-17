@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\bin\Debug\net8.0\demoII.exe
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\bin\Debug\net8.0\demoII.deps.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\bin\Debug\net8.0\demoII.runtimeconfig.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\bin\Debug\net8.0\demoII.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\bin\Debug\net8.0\demoII.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.AssemblyInfo.cs
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.sourcelink.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\refint\demoII.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\demoII.genruntimeconfig.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoII\obj\Debug\net8.0\ref\demoII.dll

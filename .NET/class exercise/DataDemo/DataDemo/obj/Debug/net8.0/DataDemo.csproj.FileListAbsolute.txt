@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.sourcelink.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\bin\Debug\net8.0\DataDemo.exe
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\bin\Debug\net8.0\DataDemo.deps.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\bin\Debug\net8.0\DataDemo.runtimeconfig.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\bin\Debug\net8.0\DataDemo.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\bin\Debug\net8.0\DataDemo.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\refint\DataDemo.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\DataDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\DataDemo\DataDemo\obj\Debug\net8.0\ref\DataDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\bin\Debug\net8.0\DlmsDemo.exe
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\bin\Debug\net8.0\DlmsDemo.deps.json
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\bin\Debug\net8.0\DlmsDemo.runtimeconfig.json
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\bin\Debug\net8.0\DlmsDemo.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\bin\Debug\net8.0\DlmsDemo.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.sourcelink.json
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\refint\DlmsDemo.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\DlmsDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\DLMS\DlmsDemo\DlmsDemo\obj\Debug\net8.0\ref\DlmsDemo.dll

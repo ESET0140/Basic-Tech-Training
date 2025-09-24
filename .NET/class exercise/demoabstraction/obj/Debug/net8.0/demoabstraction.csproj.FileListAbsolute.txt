@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.AssemblyInfo.cs
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.sourcelink.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\bin\Debug\net8.0\demoabstraction.exe
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\bin\Debug\net8.0\demoabstraction.deps.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\bin\Debug\net8.0\demoabstraction.runtimeconfig.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\bin\Debug\net8.0\demoabstraction.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\bin\Debug\net8.0\demoabstraction.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\refint\demoabstraction.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\demoabstraction.genruntimeconfig.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.NET\class exercise\demoabstraction\obj\Debug\net8.0\ref\demoabstraction.dll

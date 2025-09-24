@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Basic-Tech-Training\\.NET\\class exercise\\demoabstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5276B56E-994B-42B6-8955-F98C4BF3D639}|demoabstraction.csproj|c:\\users\\hp\\desktop\\basic-tech-training\\.net\\class exercise\\demoabstraction\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5276B56E-994B-42B6-8955-F98C4BF3D639}|demoabstraction.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5276B56E-994B-42B6-8955-F98C4BF3D639}|demoabstraction.csproj|c:\\users\\hp\\desktop\\basic-tech-training\\.net\\class exercise\\demoabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5276B56E-994B-42B6-8955-F98C4BF3D639}|demoabstraction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5276B56E-994B-42B6-8955-F98C4BF3D639}|demoabstraction.csproj|c:\\users\\hp\\desktop\\basic-tech-training\\.net\\class exercise\\demoabstraction\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5276B56E-994B-42B6-8955-F98C4BF3D639}|demoabstraction.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Basic-Tech-Training\\.NET\\class exercise\\demoabstraction\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Basic-Tech-Training\\.NET\\class exercise\\demoabstraction\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:25:25.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Basic-Tech-Training\\.NET\\class exercise\\demoabstraction\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Basic-Tech-Training\\.NET\\class exercise\\demoabstraction\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:25:13.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Basic-Tech-Training\\.NET\\class exercise\\demoabstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Basic-Tech-Training\\.NET\\class exercise\\demoabstraction\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:23:48.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

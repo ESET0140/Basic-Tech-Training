@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\PRINTER\bin\Debug\net8.0\PRINTER.exe
+C:\Users\HP\source\repos\PRINTER\bin\Debug\net8.0\PRINTER.deps.json
+C:\Users\HP\source\repos\PRINTER\bin\Debug\net8.0\PRINTER.runtimeconfig.json
+C:\Users\HP\source\repos\PRINTER\bin\Debug\net8.0\PRINTER.dll
+C:\Users\HP\source\repos\PRINTER\bin\Debug\net8.0\PRINTER.pdb
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\PRINTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\PRINTER.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\PRINTER.AssemblyInfo.cs
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\PRINTER.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\PRINTER.dll
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\refint\PRINTER.dll
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\PRINTER.pdb
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\PRINTER.genruntimeconfig.cache
+C:\Users\HP\source\repos\PRINTER\obj\Debug\net8.0\ref\PRINTER.dll
